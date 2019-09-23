@@ -4,7 +4,7 @@ Contains annotated probe-level information for the moex10stv1 (mouse Exon 1.0ST)
 # Description
 ===================
 
-The `moex10stv1.probeFile` package is an AnnotationForge-generated package containing the probe sequence information for MTA-1_0 (ClariomD mouse) array.  The package contains a `data.frame` containing the necessary probe-level information to run the `GCSscore` differential expression on the following Affymetrix/Thermo-Fisher cchip type:  
+The `moex10stv1.probeFile` package is an AnnotationForge-generated package containing the probe sequence information for mouse Exon 1.0ST array.  The package contains a `data.frame` containing the necessary probe-level information to run the `GCSscore` differential expression on the following Affymetrix/Thermo-Fisher cchip type:  
 
 mouse Exon 1.0ST microarray
 
